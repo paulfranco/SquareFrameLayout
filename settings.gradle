@@ -1,0 +1,3 @@
+include ':SquareFrameLayout'
+include ':app'
+rootProject.name = "SquareFrameLayoutExample"
